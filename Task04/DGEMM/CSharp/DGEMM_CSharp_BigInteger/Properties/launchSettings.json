@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DGEMM_CSharp_BigInteger": {
+      "commandName": "Project",
+      "commandLineArgs": "../../../../input/matrix_a.csv\r\n../../../../input/matrix_b.csv\r\n../../../../output/DGEMM_CSharp_BigInteger_result.csv\r\n8"
+    }
+  }
+}

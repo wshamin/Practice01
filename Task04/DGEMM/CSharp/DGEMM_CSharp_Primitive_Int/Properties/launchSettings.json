@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "DGEMM_CSharp_Primitive_Int": {
+      "commandName": "Project",
+      "commandLineArgs": "../../../../input/matrix_a.csv\r\n../../../../input/matrix_b.csv\r\n../../../../output/DGEMM_CSharp_Primitive_Int_result.csv\r\n8"
+    }
+  }
+}

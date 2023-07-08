@@ -1,0 +1,15 @@
+/Task04/input/matrix_a.csv
+/Task04/input/matrix_b.csv
+/DGEMM/output/*
+/DGEMM/CSharp/DGEMM_CSharp_BigInteger/bin/
+/DGEMM/CSharp/DGEMM_CSharp_BigInteger/obj/
+/DGEMM/CSharp/DGEMM_CSharp_BigInteger/.vs/
+/DGEMM/CSharp/DGEMM_CSharp_Primitive_Float/bin/
+/DGEMM/CSharp/DGEMM_CSharp_Primitive_Float/obj/
+/DGEMM/CSharp/DGEMM_CSharp_Primitive_Float/.vs/
+/DGEMM/CSharp/DGEMM_CSharp_Primitive_Int/bin/
+/DGEMM/CSharp/DGEMM_CSharp_Primitive_Int/obj/
+/DGEMM/CSharp/DGEMM_CSharp_Primitive_Int/.vs/
+*.user
+*.suo
+*.userprefs
