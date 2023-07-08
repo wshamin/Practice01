@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd
-import argparse # Парсер аргументов для запуска
+import argparse  # Парсер аргументов для запуска
 
 
 def generate_matrix(rows, cols, min_val, max_val, float_values=False):
